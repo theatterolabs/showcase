@@ -1,0 +1,381 @@
+{
+  "effects" : [ {
+    "shimmer_intensities" : {
+      "shimmer_intensity" : [ "0", "0", "100" ]
+    },
+    "palette_guid" : "eyeshadow_palettes_170428_gemini_n",
+    "color_intensities" : {
+      "color_intensity" : [ "20", "50", "45" ]
+    },
+    "color_is_shimmers" : {
+      "color_is_shimmer" : [ "0", "0", "1" ]
+    },
+    "effect_type" : "eye_shadow",
+    "colors" : {
+      "color" : [ "008c4f35", "00753a1a", "00fde9ce" ]
+    },
+    "pattern_guid" : "eyeshadow_170428_gemini_n"
+  }, {
+    "global_intensity" : "55",
+    "shimmer_intensities" : {
+      "shimmer_intensity" : [ "0", "0" ]
+    },
+    "palette_guid" : "palettes_face_contour_palette_white_01",
+    "color_intensities" : {
+      "color_intensity" : [ "45", "45" ]
+    },
+    "color_is_shimmers" : {
+      "color_is_shimmer" : [ "0", "0" ]
+    },
+    "effect_type" : "face_contour_pattern",
+    "colors" : {
+      "color" : [ "00fff7f8", "00d3ac95" ]
+    },
+    "pattern_guid" : "face_contour_pattern_08"
+  }, {
+    "palette_guid" : "eyeline_palette_01_01",
+    "color_intensities" : {
+      "color_intensity" : "50"
+    },
+    "effect_type" : "eye_line",
+    "colors" : {
+      "color" : "00000000"
+    },
+    "pattern_guid" : "patten_eyeline_170428_gemini_01"
+  }, {
+    "palette_guid" : "BCC-13839_20170511_LA_05_01",
+    "color_intensities" : {
+      "color_intensity" : "50"
+    },
+    "effect_type" : "eye_lash",
+    "colors" : {
+      "color" : "00000000"
+    },
+    "pattern_guid" : "patten_eyelash_170428_gemini_01"
+  }, {
+    "palette_guid" : "palette_eyebrow_170302_Aries_Natural",
+    "color_intensities" : {
+      "color_intensity" : "60"
+    },
+    "effect_type" : "eye_brow",
+    "colors" : {
+      "color" : "000b0816"
+    },
+    "pattern_guid" : "patten_eyebrow_170428_gemini_Natural",
+    "hidden_intensity" : "85"
+  }, {
+    "palette_guid" : "BCC-13839_20170523_LS_01_01",
+    "color_intensities" : {
+      "color_intensity" : "70"
+    },
+    "effect_type" : "lipstick",
+    "colors" : {
+      "level_color" : "643500b20002"
+    },
+    "pattern_guid" : "patten_lipstick_01"
+  }, {
+    "palette_guid" : "palette_blush_170428_gemini_n",
+    "color_intensities" : {
+      "color_intensity" : "60"
+    },
+    "effect_type" : "blush",
+    "colors" : {
+      "color" : "00c4643b"
+    },
+    "pattern_guid" : "pattern_blush_KAI_DELUXE_151218_03"
+  }, {
+    "color_intensities" : {
+      "color_intensity" : "10"
+    },
+    "effect_type" : "skin_toner",
+    "colors" : {
+      "color" : "00ecc19e"
+    }
+  }, {
+    "intensity" : "35",
+    "effect_type" : "nose_enhancement"
+  } ],
+  "patterns" : [ {
+    "thumbnail" : "eyeshadow/thumb/pattern_eyeshadow_170428_gemini_n.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "eyeright" : "633,288",
+        "src" : "eyeshadow/eyeshadow_170428_gemini_n_a.png",
+        "eyetop" : "459,213",
+        "eyeleft" : "285,288",
+        "eyebottom" : "459,380",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/eyeshadow_170428_gemini_n/eyeshadow/eyeshadow_170428_gemini_n_a.png"
+      }, {
+        "eyeright" : "633,288",
+        "src" : "eyeshadow/eyeshadow_170428_gemini_n_b.png",
+        "eyetop" : "459,213",
+        "eyeleft" : "285,288",
+        "eyebottom" : "459,380",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/eyeshadow_170428_gemini_n/eyeshadow/eyeshadow_170428_gemini_n_b.png"
+      }, {
+        "eyeright" : "633,288",
+        "src" : "eyeshadow/eyeshadow_170428_gemini_n_c.png",
+        "eyetop" : "459,213",
+        "eyeleft" : "285,288",
+        "eyebottom" : "459,380",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/eyeshadow_170428_gemini_n/eyeshadow/eyeshadow_170428_gemini_n_c.png"
+      } ]
+    },
+    "guid" : "eyeshadow_170428_gemini_n",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/eyeshadow_170428_gemini_n/eyeshadow/thumb/pattern_eyeshadow_170428_gemini_n.jpg"
+  }, {
+    "thumbnail" : "eyelash/thumb/patten_eyelash_170428_gemini_01.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "eyeright" : "633,287",
+        "src" : "eyelash/eyelash_170428_gemini_a.png",
+        "eyetop" : "458,213",
+        "eyeleft" : "284,287",
+        "position" : "upper",
+        "eyebottom" : "458,362",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyelash_170428_gemini_01/eyelash/eyelash_170428_gemini_a.png"
+      }, {
+        "eyeright" : "633,287",
+        "src" : "eyelash/eyelash_170428_gemini_b.png",
+        "eyetop" : "458,213",
+        "eyeleft" : "284,287",
+        "position" : "lower",
+        "eyebottom" : "458,362",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyelash_170428_gemini_01/eyelash/eyelash_170428_gemini_b.png"
+      } ]
+    },
+    "guid" : "patten_eyelash_170428_gemini_01",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyelash_170428_gemini_01/eyelash/thumb/patten_eyelash_170428_gemini_01.jpg"
+  }, {
+    "thumbnail" : "blush/thumb/pattern_blush_KAI_DELUXE_151218_03.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "src" : "blush/blush_KAI_DELUXE_151218_03_l.png",
+        "position" : "left",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/pattern_blush_kai_deluxe_151218_03/blush/blush_kai_deluxe_151218_03_l.png"
+      }, {
+        "src" : "blush/blush_KAI_DELUXE_151218_03_r.png",
+        "position" : "right",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/pattern_blush_kai_deluxe_151218_03/blush/blush_kai_deluxe_151218_03_r.png"
+      } ]
+    },
+    "guid" : "pattern_blush_KAI_DELUXE_151218_03",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/pattern_blush_kai_deluxe_151218_03/blush/thumb/pattern_blush_kai_deluxe_151218_03.jpg"
+  }, {
+    "thumbnail" : "eyeline/thumb/patten_eyeline_170428_gemini_01.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "eyeright" : "633,287",
+        "src" : "eyeline/eyeline_170428_gemini_01_a.png",
+        "eyetop" : "458,213",
+        "eyeleft" : "284,287",
+        "position" : "upper",
+        "eyebottom" : "458,362",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyeline_170428_gemini_01/eyeline/eyeline_170428_gemini_01_a.png"
+      }, {
+        "eyeright" : "633,287",
+        "src" : "eyeline/eyeline_170428_gemini_01_b.png",
+        "eyetop" : "458,213",
+        "eyeleft" : "284,287",
+        "position" : "lower",
+        "eyebottom" : "458,362",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyeline_170428_gemini_01/eyeline/eyeline_170428_gemini_01_b.png"
+      } ]
+    },
+    "guid" : "patten_eyeline_170428_gemini_01",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyeline_170428_gemini_01/eyeline/thumb/patten_eyeline_170428_gemini_01.jpg"
+  }, {
+    "thumbnail" : "eyebrow/thumb/patten_eyebrow_170428_gemini_Natural.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "basiceyetail" : "0,0",
+        "browtop" : "136,61",
+        "basicbrowtop" : "0,0",
+        "src" : "eyebrow/eyebrow_170428_gemini_Natural.mask.png",
+        "basiceyetop" : "0,0",
+        "basicbrowtail" : "0,0",
+        "browhead" : "27,88",
+        "shapesrc" : "eyebrow/eyebrow_170428_gemini_Natural.png",
+        "basicbrowhead" : "0,0",
+        "browtail" : "202,86",
+        "basiceyehead" : "0,0",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyebrow_170428_gemini_natural/eyebrow/eyebrow_170428_gemini_natural.mask.png",
+        "shapeurl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyebrow_170428_gemini_natural/eyebrow/eyebrow_170428_gemini_natural.png"
+      } ]
+    },
+    "guid" : "patten_eyebrow_170428_gemini_Natural",
+    "eyebrow_mode" : {
+      "type" : "ART_DESIGN"
+    },
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/patten_eyebrow_170428_gemini_natural/eyebrow/thumb/patten_eyebrow_170428_gemini_natural.jpg"
+  }, {
+    "thumbnail" : "face_contour_pattern/face_contour_pattern_07/thumb.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_07/highlight.jpg",
+        "position" : "highlight",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_07/face_contour_pattern/face_contour_pattern_07/highlight.jpg"
+      }, {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_07/contour.jpg",
+        "position" : "contour",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_07/face_contour_pattern/face_contour_pattern_07/contour.jpg"
+      } ]
+    },
+    "guid" : "face_contour_pattern_07",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_07/face_contour_pattern/face_contour_pattern_07/thumb.jpg"
+  }, {
+    "thumbnail" : "face_contour_pattern/face_contour_pattern_08/thumb.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_08/highlight.jpg",
+        "position" : "highlight",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_08/face_contour_pattern/face_contour_pattern_08/highlight.jpg"
+      }, {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_08/contour.jpg",
+        "position" : "contour",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_08/face_contour_pattern/face_contour_pattern_08/contour.jpg"
+      } ]
+    },
+    "guid" : "face_contour_pattern_08",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_08/face_contour_pattern/face_contour_pattern_08/thumb.jpg"
+  }, {
+    "thumbnail" : "face_contour_pattern/face_contour_pattern_09/thumb.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_09/highlight.jpg",
+        "position" : "highlight",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_09/face_contour_pattern/face_contour_pattern_09/highlight.jpg"
+      }, {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_09/contour.jpg",
+        "position" : "contour",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_09/face_contour_pattern/face_contour_pattern_09/contour.jpg"
+      } ]
+    },
+    "guid" : "face_contour_pattern_09",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_09/face_contour_pattern/face_contour_pattern_09/thumb.jpg"
+  }, {
+    "thumbnail" : "face_contour_pattern/face_contour_pattern_10/thumb.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_10/highlight.jpg",
+        "position" : "highlight",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_10/face_contour_pattern/face_contour_pattern_10/highlight.jpg"
+      }, {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_10/contour.jpg",
+        "position" : "contour",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_10/face_contour_pattern/face_contour_pattern_10/contour.jpg"
+      } ]
+    },
+    "guid" : "face_contour_pattern_10",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_10/face_contour_pattern/face_contour_pattern_10/thumb.jpg"
+  }, {
+    "thumbnail" : "face_contour_pattern/face_contour_pattern_11/thumb.jpg",
+    "pattern_mask" : {
+      "mask" : [ {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_11/highlight.jpg",
+        "position" : "highlight",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_11/face_contour_pattern/face_contour_pattern_11/highlight.jpg"
+      }, {
+        "modelanchorlefttop" : "229,197",
+        "src" : "face_contour_pattern/face_contour_pattern_11/contour.jpg",
+        "position" : "contour",
+        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_11/face_contour_pattern/face_contour_pattern_11/contour.jpg"
+      } ]
+    },
+    "guid" : "face_contour_pattern_11",
+    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/looks/170428_gemini_natural/face_contour_pattern_11/face_contour_pattern/face_contour_pattern_11/thumb.jpg"
+  } ],
+  "skinToners" : [ {
+    "colors" : {
+      "color" : "00ecc19e"
+    }
+  } ],
+  "palettes" : [ {
+    "shimmer_intensities" : {
+      "shimmer_intensity" : [ "0", "0", "100" ]
+    },
+    "patterns" : {
+      "pattern_guid" : {
+        "color_intensities" : "20,70,60",
+        "content" : "eyeshadow_170428_gemini_n"
+      }
+    },
+    "guid" : "eyeshadow_palettes_170428_gemini_n",
+    "color_is_shimmers" : {
+      "color_is_shimmer" : [ "0", "0", "1" ]
+    },
+    "colors" : {
+      "color" : [ "008c4f35", "00753a1a", "00fde9ce" ]
+    }
+  }, {
+    "guid" : "BCC-13839_20170511_LA_05_01",
+    "colors" : {
+      "color" : "00000000"
+    },
+    "sku_guid" : "BCC-13839_20170511_LA_05"
+  }, {
+    "guid" : "palette_blush_170428_gemini_n",
+    "colors" : {
+      "color" : "00c4643b"
+    }
+  }, {
+    "guid" : "BCC-13839_20170523_LS_01_01",
+    "colors" : {
+      "level_color" : "643500b20002"
+    },
+    "sku_guid" : "BCC-13839_20170523_LS_01"
+  }, {
+    "thumbnail" : "",
+    "guid" : "eyeline_palette_01_01",
+    "colors" : {
+      "color" : "00000000"
+    }
+  }, {
+    "guid" : "palette_eyebrow_170302_Aries_Natural",
+    "colors" : {
+      "color" : "000b0816"
+    }
+  }, {
+    "patterns" : {
+      "pattern_guid" : [ {
+        "color_intensities" : "100, 100",
+        "content" : "face_contour_pattern_07"
+      }, {
+        "color_intensities" : "100, 100",
+        "content" : "face_contour_pattern_08"
+      }, {
+        "color_intensities" : "100, 100",
+        "content" : "face_contour_pattern_09"
+      }, {
+        "color_intensities" : "100, 100",
+        "content" : "face_contour_pattern_10"
+      }, {
+        "color_intensities" : "100, 100",
+        "content" : "face_contour_pattern_11"
+      } ]
+    },
+    "guid" : "palettes_face_contour_palette_white_01",
+    "colors" : {
+      "color" : [ "00fff7f8", "00d3ac95" ]
+    }
+  } ],
+  "look" : {
+    "backgroundUrl" : "",
+    "tokenId" : "",
+    "previewImageUrl" : "https://cdn.perfectcorp.com/applyLook/170428_Gemini_Natural/5afbfbd8-c311-4127-b4a4-36e3183cb06c_preview_apply.jpg",
+    "name" : "Gemini Beauty",
+    "contractAddress" : "",
+    "lookGuid" : "170428_Gemini_Natural",
+    "desc" : "With her eye on love, this Gemini look is nothing short of glamorous. @Starlit_makeup",
+    "thumbnailUrl" : "https://cdn.perfectcorp.com/applyLook/170428_Gemini_Natural/5afbfbd8-c311-4127-b4a4-36e3183cb06c_thumbnail_apply.jpg"
+  }
+}

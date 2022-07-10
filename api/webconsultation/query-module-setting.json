@@ -1,0 +1,157 @@
+{
+  "id" : 63,
+  "objVersion" : 1,
+  "isDeleted" : false,
+  "createdTime" : 1612160231000,
+  "lastModified" : 1612160231000,
+  "customerId" : -30,
+  "settingName" : "default setting",
+  "settingStatus" : "DRAFT",
+  "layout" : "TEMPLATE_01",
+  "attrs" : {
+    "social-weibo" : "false",
+    "behavior-2-color-photo-comparison" : "false",
+    "download-file-name" : "youcam-makeup-try-on",
+    "disable-layout-model-photos" : "false",
+    "social-twitter" : "false",
+    "social-pinterest" : "false",
+    "social-email" : "false",
+    "social-facebook" : "false"
+  },
+  "files" : [ {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image1.jpg",
+    "displayOrder" : 0
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image1.jpg",
+    "displayOrder" : 0
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image1-thumb.jpg",
+    "displayOrder" : 0
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image1-thumb.jpg",
+    "displayOrder" : 0
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "LOADER",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/loading.gif",
+    "displayOrder" : 0
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "BACKGROUND_IMAGE",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/layout1-bg.jpg",
+    "displayOrder" : 0
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "BACKGROUND_IMAGE",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/layout1-bg.jpg",
+    "displayOrder" : 0
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image2.jpg",
+    "displayOrder" : 1
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image2.jpg",
+    "displayOrder" : 1
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image2-thumb.jpg",
+    "displayOrder" : 1
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image2-thumb.jpg",
+    "displayOrder" : 1
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image3.jpg",
+    "displayOrder" : 2
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image3.jpg",
+    "displayOrder" : 2
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image3-thumb.jpg",
+    "displayOrder" : 2
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image3-thumb.jpg",
+    "displayOrder" : 2
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image4.jpg",
+    "displayOrder" : 3
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image4.jpg",
+    "displayOrder" : 3
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image4-thumb.jpg",
+    "displayOrder" : 3
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image4-thumb.jpg",
+    "displayOrder" : 3
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image5.jpg",
+    "displayOrder" : 4
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image5.jpg",
+    "displayOrder" : 4
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image5-thumb.jpg",
+    "displayOrder" : 4
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image5-thumb.jpg",
+    "displayOrder" : 4
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image6.jpg",
+    "displayOrder" : 5
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image6.jpg",
+    "displayOrder" : 5
+  }, {
+    "platform" : "DESKTOP",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image6-thumb.jpg",
+    "displayOrder" : 5
+  }, {
+    "platform" : "MOBILE",
+    "fileType" : "MODEL_THUMBNAIL",
+    "fileUrl" : "https://plugins-media.makeupar.com/webconsultation/images/makeup/image6-thumb.jpg",
+    "displayOrder" : 5
+  } ]
+}

@@ -1,0 +1,63 @@
+{
+  "models" : [ {
+    "thumbnail" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model1.png",
+    "original" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model1.jpg"
+  }, {
+    "thumbnail" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model2.png",
+    "original" : "https://theatterolabs.github.io/showcase/cosmetic-production-01/console/WebConsult/guest/992/618a4878-e837-472f-bf57-94a77fb20088.jpg"
+  }, {
+    "thumbnail" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model3.png",
+    "original" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model3.jpg"
+  }, {
+    "thumbnail" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model4.png",
+    "original" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model4.jpg"
+  }, {
+    "thumbnail" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model5.png",
+    "original" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model5.jpg"
+  }, {
+    "thumbnail" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model6.png",
+    "original" : "https://theatterolabs.github.io/showcase/bcw-media/webconsultation/img-model6.jpg"
+  } ],
+  "features" : {
+    "makeup" : "1",
+    "fourway" : "0",
+    "bearddye" : "0",
+    "skincare" : "1",
+    "ring" : "0",
+    "shadefinder" : "1",
+    "recommendationSdk" : "0",
+    "serviceunavailable" : "0",
+    "offline" : "0",
+    "advancedskincare" : "1",
+    "bipa" : "0",
+    "dynamicSku" : "0",
+    "handar" : "0",
+    "eyebrow" : "1",
+    "eyewear" : "1",
+    "nowatermark" : "1",
+    "sticker" : "0",
+    "faceattribute" : "1",
+    "necklace" : "0",
+    "aitransfer" : "1",
+    "i18n" : "0",
+    "facereshape" : "0",
+    "watch" : "0",
+    "background" : "1",
+    "haircolor" : "1",
+    "nft" : "0"
+  },
+  "watermark" : "",
+  "customerId" : -30,
+  "domains" : [ "theatterolabs.github.io", "plugins.youcamapi.cn", "d32yj23bzknmow.cloudfront.net", "www.perfectcorp.com", "plugins-media.perfectcorp.com", "*", "plugins-media.youcamapi.cn", "plugins.perfectcorp.cn", "plugins-media.perfectcorp.cn" ],
+  "misc" : {
+    "masterId" : null,
+    "offlineDueDate" : 1672444800000,
+    "country" : null,
+    "uiConfigVersion" : "v2",
+    "emulationFeatures" : [ "age_spot", "dark_circle", "redness", "eye_bag", "wrinkle", "pore", "texture" ],
+    "expired" : false,
+    "eventTrackingServer" : "ga",
+    "nftTryOnCount" : 0,
+    "skincareFeatures" : [ "firmness", "radiance", "dark_circle", "dark_circle_v2", "droopy_upper_eyelid", "droopy_lower_eyelid", "eye_bag", "age_spot", "wrinkles", "texture", "redness", "oilness", "moisture", "pore", "acne" ]
+  }
+}
