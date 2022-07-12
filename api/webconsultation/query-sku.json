@@ -5,55 +5,55 @@
       "mask" : [ {
         "modelanchorlefttop" : "189,196",
         "src" : "bronzer/190319_Bronzer_pattern_01.png",
-        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_01/bronzer/190319_bronzer_pattern_01.png"
+        "url" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_01/bronzer/190319_bronzer_pattern_01.png"
       } ]
     },
     "guid" : "190319_Bronzer_01",
-    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_01/bronzer/thumb/bronzer_pattern_01_thumb.jpg"
+    "thumbnailUrl" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_01/bronzer/thumb/bronzer_pattern_01_thumb.jpg"
   }, {
     "thumbnail" : "bronzer/thumb/Bronzer_pattern_02_thumb.jpg",
     "pattern_mask" : {
       "mask" : [ {
         "modelanchorlefttop" : "189,196",
         "src" : "bronzer/190319_Bronzer_pattern_02.png",
-        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_02/bronzer/190319_bronzer_pattern_02.png"
+        "url" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_02/bronzer/190319_bronzer_pattern_02.png"
       } ]
     },
     "guid" : "190319_Bronzer_02",
-    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_02/bronzer/thumb/bronzer_pattern_02_thumb.jpg"
+    "thumbnailUrl" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_02/bronzer/thumb/bronzer_pattern_02_thumb.jpg"
   }, {
     "thumbnail" : "bronzer/thumb/Bronzer_pattern_03_thumb.jpg",
     "pattern_mask" : {
       "mask" : [ {
         "modelanchorlefttop" : "189,196",
         "src" : "bronzer/190319_Bronzer_pattern_03.png",
-        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_03/bronzer/190319_bronzer_pattern_03.png"
+        "url" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_03/bronzer/190319_bronzer_pattern_03.png"
       } ]
     },
     "guid" : "190319_Bronzer_03",
-    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_03/bronzer/thumb/bronzer_pattern_03_thumb.jpg"
+    "thumbnailUrl" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_03/bronzer/thumb/bronzer_pattern_03_thumb.jpg"
   }, {
     "thumbnail" : "bronzer/thumb/Bronzer_pattern_04_thumb.jpg",
     "pattern_mask" : {
       "mask" : [ {
         "modelanchorlefttop" : "189,196",
         "src" : "bronzer/190319_Bronzer_pattern_04.png",
-        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_04/bronzer/190319_bronzer_pattern_04.png"
+        "url" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_04/bronzer/190319_bronzer_pattern_04.png"
       } ]
     },
     "guid" : "190319_Bronzer_04",
-    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_04/bronzer/thumb/bronzer_pattern_04_thumb.jpg"
+    "thumbnailUrl" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_04/bronzer/thumb/bronzer_pattern_04_thumb.jpg"
   }, {
     "thumbnail" : "bronzer/thumb/Bronzer_pattern_05_thumb.jpg",
     "pattern_mask" : {
       "mask" : [ {
         "modelanchorlefttop" : "189,196",
         "src" : "bronzer/190319_Bronzer_pattern_05.png",
-        "url" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_05/bronzer/190319_bronzer_pattern_05.png"
+        "url" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_05/bronzer/190319_bronzer_pattern_05.png"
       } ]
     },
     "guid" : "190319_Bronzer_05",
-    "thumbnailUrl" : "https://d161aii70lzc9u.cloudfront.net/webconsultation/patterns/190319_bronzer_05/bronzer/thumb/bronzer_pattern_05_thumb.jpg"
+    "thumbnailUrl" : "https://theatterolabs.github.io/showcase/webconsultation/patterns/190319_bronzer_05/bronzer/thumb/bronzer_pattern_05_thumb.jpg"
   } ],
   "intensitySliders" : {
     "BCC-PF_Test_20190614_BZ_01_02" : "false",
