@@ -2301,7 +2301,7 @@ var YMK = function(e) {
 		},
 		ee = void 0,
 		te = t.listShadeFinderMappingV4 = function(e) {
-			return ee || U("https://theatterolabs.github.io/showcase/api/webconsultation/list-shade-finder-mapping-v4.action?apiKey=" + e).then(function(e) {
+			return ee || U("https://theatterolabs.github.io/showcase/api/webconsultation/list-shade-finder-mapping-v4.json?apiKey=" + e).then(function(e) {
 				return 200 === e.status ? e.json() : []
 			}).then(function(e) {
 				return ee = e, e
@@ -2337,7 +2337,7 @@ var YMK = function(e) {
 		}(),
 		ae = void 0,
 		oe = t.listShadeFinderMappingWcldV4 = function(e) {
-			return ae || U("https://theatterolabs.github.io/showcase/api/webconsultation/list-shade-finder-mapping-wcld-v4.action?apiKey=" + e).then(function(e) {
+			return ae || U("https://theatterolabs.github.io/showcase/api/webconsultation/list-shade-finder-mapping-wcld-v4.json?apiKey=" + e).then(function(e) {
 				return 200 === e.status ? e.json() : []
 			}).then(function(e) {
 				return ae = e, e
